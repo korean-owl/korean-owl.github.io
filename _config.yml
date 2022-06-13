@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Owl"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "I am an **amazing** owl."
+  location         : "Seoul"
+  email            : "guagmire@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
